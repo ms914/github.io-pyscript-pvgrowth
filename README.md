@@ -8,3 +8,4 @@ The curve is related to the cost curve or learning curve or Moore's law which le
 
 [Swanson's Law](https://en.wikipedia.org/wiki/Swanson%27s_law): costs decline by 10% per year.
 
+[link](https://ms914.github.io/pyscript-pvgrowth/index.html)
